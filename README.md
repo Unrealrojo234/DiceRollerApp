@@ -2,7 +2,7 @@
 
 A simple and interactive dice rolling application built with Jetpack Compose. This app allows users to simulate rolling a six-sided die with a tap of a button.
 
-![Dice_Roller_App](https://github.com/user-attachments/assets/c6680c54-f9fc-4d9e-8bbd-34572b8e8cb1)
+<img width="230" src="https://github.com/user-attachments/assets/c6680c54-f9fc-4d9e-8bbd-34572b8e8cb1"/>
 
 
 ## Features
